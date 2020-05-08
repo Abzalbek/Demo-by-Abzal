@@ -48,6 +48,7 @@ public class MainActivityTest {
     /**
      * Action test
      */
+    // gggg
     @Test
     public void actionTest() {
         editText.perform(clearText());
